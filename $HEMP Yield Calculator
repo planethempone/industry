@@ -1,0 +1,73 @@
+The Sovereign’s Harvest: $HEMP Yield Calculator
+
+To empower our Cultivators and Sovereigns, we have developed a specialized logic for the Planet Hemp Calculator Tool. This tool does not just measure weight; it measures Impact Density, converting physical biomass and atmospheric sequestration into $HEMP$ token estimates.
+
+
+
+1. The Core Algorithmic Logic
+
+The calculator operates on the "Triple-Yield Formula." It aggregates three distinct value streams into a single $HEMP$ projection:
+
+$$Total \$HEMP Yield = (Y_{biomass} + Y_{carbon} + Y_{nexus})$$
+
+A. The Biomass Yield ($Y_{biomass}$)
+
+Calculated based on the dry weight of the stalks (fiber + hurd).
+Standard Rate: 10 $HEMP$ per Metric Ton (MT) of dry biomass.
+Variable: Acreage $\times$ Regional Yield Factor (Average: 2.5–4 MT/acre).
+
+B. The Carbon Sequestration Yield ($Y_{carbon}$)
+
+The "Planet-First" incentive. Based on the $CO_2$ drawdown scientifically verified during the growth cycle.
+Standard Rate: 50 $HEMP$ per 1 Metric Ton of $CO_2$ ($tCO_2e$).
+Variable: 1.63 tons of $CO_2$ sequestered per 1 ton of hemp stem.
+The Root Bonus: An additional 20% is added for carbon sequestered in the soil via the root system and leaf mulch left in situ.
+
+C. The Nexus Multiplier ($Y_{nexus}$)
+
+A bonus for data sovereignty and precision farming.
+
+Bonus: +15% total yield if the farm is equipped with Eco-Guardian sensors.
+Bonus: +10% if the crop is part of a verified Permaculture Rotation (Calibration Pillar).
+
+
+
+2. The User Interface (Example Calculation)
+
+Input Fields:
+
+Total Acreage: 100 Acres
+Cultivar Type: Industrial Fiber (e.g., Futura 75)
+Sensor Integration: Yes (Eco-Guardian Connected)
+Calibration Level: Year 2 (Rotation Bump: +12%)
+
+Step-by-Step Backend Execution:
+
+Biomass Calculation: 100 Acres $\times$ 3.5 MT/Acre = 350 MT Biomass.
+Biomass Yield: 350 MT $\times$ 10 $HEMP$ = 3,500 $HEMP$.
+Carbon Calculation: 350 MT $\times$ 1.63 ($CO_2$ conversion) $\times$ 1.2 (Root Bonus) = 684.6 $tCO_2e$.
+Carbon Yield: 684.6 $\times$ 50 $HEMP$ = 34,230 $HEMP$.
+Nexus Calibration: (3,500 + 34,230) $\times$ 0.25 (Total Multiplier: 15% sensor + 10% rotation).
+Nexus Bonus: 9,432.5 $HEMP$.
+
+Total Projected Yield: 47,162.5 $HEMP$
+
+
+
+3. The "Resilience" Stress Test
+
+The calculator includes a "Weather & Market Slider" to help Sovereigns prepare for volatility:
+Drought/Flood Simulation: Reduces biomass yield by 20–40% but increases the "Resilience Fund" payout eligibility.
+Market Surge: Increases the value of $HEMP$ vs. $CO2e$ credits based on current Green Renaissance demand.
+
+
+
+4. Visual Dashboard Integration
+
+The results are displayed as a "Hemp Vitality Radar":
+Blue Arc: Carbon Power.
+Gold Arc: Financial Liquidity.
+Green Arc: Ecosystem Health (XP).
+
+
+"The Calculator is the bridge between the farmer's sweat and the Sovereign's digital weight. It proves that what is good for the soil is inherently good for the ledger."
